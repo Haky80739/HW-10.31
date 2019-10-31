@@ -1,0 +1,3 @@
+﻿  Main.c
+c:\users\haky\desktop\108360234_黃彥翔 old\p18\source\main.c(20): warning C4098: 'main': 'void' 函式正在傳回值
+  HW.vcxproj -> C:\Users\Haky\Desktop\108360234_黃彥翔 old\P18\HW\Debug\HW.exe
